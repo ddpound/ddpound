@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<img src="https://img.shields.io/badge/springboot-3DDC84?style=for-the-badge,=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/springboot-3DDC84?style=flat-square&logo=springboot&logoColor=white"/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddpound&show_icons=true&theme=radical)
 
