@@ -1,4 +1,4 @@
-### Java, SpringBoot,React등 스스로에게 제한을 두지않고 최선을 다하겠습니다. 👋
+### Java, SpringBoot, React 👋👋👋
 
 
 <img src="https://img.shields.io/badge/springboot-3DDC84?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/springsecurity-6DB33F?style=flat-square&logo=springsecurity&logoColor=black"/> 
